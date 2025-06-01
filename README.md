@@ -6,7 +6,7 @@
 
 进入rk官方github([rknn-toolkit2/rknn-toolkit2/packages/x86_64 at master · airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2/tree/master/rknn-toolkit2/packages/x86_64))，下载rknntoolkit2的python包，选择符合自己Python版本的即可，创建虚拟环境也可以
 
-![rknntoolkit2-whl](C:\Users\15346\Desktop\convert_tool\yolo11_convert_rknn\images\rknntoolkit2-whl.png)
+[yolo11_convert_rknn/images/rknntoolkit2-whl.png at main · rokkieluo/yolo11_convert_rknn](https://github.com/rokkieluo/yolo11_convert_rknn/blob/main/images/rknntoolkit2-whl.png)
 
 **注：此处需先安装requirements.txt的依赖环境后才可安装rknntoolkit2-whl**
 
